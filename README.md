@@ -19,4 +19,7 @@ The purpose of this analysis is to gauge credit risk through building a supervis
 
 ![Forest Classifier](https://github.com/lina2285/Credit_Risk_Analysis/blob/main/RANDON_FOREST.png)
 
-![Adaboost](https://github.com/lina2285/Credit_Risk_Analysis/blob/main/ENSEBLE_ADABOOST.png)
+![EasyEnsembleAdaboost](https://github.com/lina2285/Credit_Risk_Analysis/blob/main/ENSEBLE_ADABOOST.png)
+
+## Summary
+Based on the results, the EasyEnsembleClassifier proves to be the most effective with an accuracy score above 90%. Given that this gives that best precision, Jill can use this analysis with confidence that the projected risk is being planned for accurately. 
